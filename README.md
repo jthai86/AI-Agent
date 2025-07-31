@@ -1,1 +1,1 @@
-Built and AI chat bot with Google Gemini
+Built an AI chat bot with Google Gemini
